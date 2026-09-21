@@ -9,5 +9,5 @@ Welcome to the repository for my personal research portfolio website, hosted liv
 Feel free to reach out if you have questions about my work, potential collaborations, or research opportunities! 
 
 * **GitHub:** [@milenamerhoutova-research](https://github.com/milenamerhoutova-research)
-* *(Optional)* **LinkedIn:** (www.linkedin.com/in/milena-m-69550085)
-* *(Optional)* **Email:** milena.merhoutova@icloud.com
+* **LinkedIn:** (www.linkedin.com/in/milena-m-69550085)
+* **Email:** milena.merhoutova@icloud.com
